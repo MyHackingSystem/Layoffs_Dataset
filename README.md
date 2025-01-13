@@ -6,3 +6,6 @@ In the **"Layoffs Dataset Analytics"** project, I focused on transforming raw da
 
 Dataset source: https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022
 
+
+
+![layoffs_dataset_analytics](https://github.com/user-attachments/assets/46f1d3e5-c0dd-4a80-a3a5-12a7877ca69d)
